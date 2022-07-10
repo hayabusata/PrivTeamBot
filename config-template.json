@@ -1,0 +1,8 @@
+{
+	"token": "discordサーバーのtoken",
+	"GUILD_ID": "サーバーID",
+	"TEXT_CHANNEL_ID": "使用するテキストチャンネルID",
+	"VOICE_CHANNEL_ID": "ボイスチャンネルID",
+	"ALPHA_CHANNEL_ID": "アルファボイスチャンネルID",
+	"BRAVO_CHANNEL_ID": "ブラボーボイスチャンネルID"
+}
